@@ -1,0 +1,2 @@
+composer require maker
+./bin/console doctrine:database:create
